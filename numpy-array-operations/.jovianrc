@@ -2,6 +2,9 @@
   "notebooks": {
     "numpy-array-operations.ipynb": {
       "slug": "aakashns/numpy-array-operations"
+    },
+    "numpy-assignment-2.ipynb": {
+      "slug": "2fbdca73ece946e7a4661c4e6c1d7c22"
     }
   }
 }
